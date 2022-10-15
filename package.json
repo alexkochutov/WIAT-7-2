@@ -1,0 +1,22 @@
+{
+  "name": "welcome-nodejs",
+  "version": "1.0.0",
+  "description": "homework 7-2 welcome nodejs",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkochutov/WIAT-7-2.git"
+  },
+  "author": "Aleksandr Kochutov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkochutov/WIAT-7-2/issues"
+  },
+  "homepage": "https://github.com/alexkochutov/WIAT-7-2#readme"
+}
