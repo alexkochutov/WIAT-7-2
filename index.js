@@ -1,8 +1,14 @@
-var foo = 1;
-console.log(foo);
-var bar;
-bar = 1;
-function test() {
-  console.log(baz);
-}
-var baz = 123;
+const func = () => {
+  const sum = (a, b) => a + b;
+  let x = 10;
+  let y = 20;
+  
+  console.log(sum(x, y)); // 30
+  debugger;
+  x = 20;
+  y = 30;
+  
+  console.log(sum(x, y)); // 50
+  };
+  
+  func();
