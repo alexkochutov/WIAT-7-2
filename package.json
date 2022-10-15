@@ -4,10 +4,12 @@
   "description": "homework 7-2 welcome nodejs",
   "main": "index.js",
   "scripts": {
-    "eslint": "eslint"
+    "eslint": "eslint",
+    "prettier": "prettier"
   },
-  "devDependencies": {
-    "eslint": "7.1.0"
+  "dependencies": {
+    "eslint": "7.1.0",
+    "prettier": "^2.7.1"
   },
   "repository": {
     "type": "git",
